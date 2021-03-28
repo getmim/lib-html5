@@ -40,3 +40,8 @@ diperbolehkan saja:
         ]
     ]
 ```
+
+## Lisensi
+
+Module menggunakan library dari [Masterminds/html5-php](https://github.com/Masterminds/html5-php).
+Silahkan mengacu pada library tersebut untuk lisensi
